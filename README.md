@@ -1,2 +1,2 @@
 # oselu-styles-conference
-a hands on web development tutorial
+a hands on web development tutorial by shay howe
